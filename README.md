@@ -1,9 +1,7 @@
 # AllegroVR
-Repository for Allegro VR App
+HoloLens repository for Allegro App
 
-[www.playallegro.com](http://playallegro.com)
-
-## Recent changes
-* Added main screen placeholder UI
-* Added 'About' page
-* Can play "Chaos" mode
+## Setup
+Run in the Unity 5.4 HoloLens Beta
+Build to the Windows Universal Platform
+Configure HoloLens Development Environment: [http://hololens.com/developers](http://hololens.com/developers)
